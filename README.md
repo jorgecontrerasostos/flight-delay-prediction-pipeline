@@ -1,5 +1,7 @@
 # Flight Delay Prediction Pipeline Using PySpark
 
+You can access to the Jupyter Notebook file with all the analysis clicking [here](https://github.com/jorgecontrerasostos/flight-delay-prediction-pipeline/blob/main/main.ipynb).
+
 ## **Overview**
 This project aims to predict whether a flight will be delayed upon arrival using the PySpark framework. By leveraging a structured data pipeline, various feature transformations and machine learning techniques are applied to build a predictive model. Some data exploration was made with SQL queries to showcase how these can be used as well when some PySpark queries may get a bit tricky. However, it depends on our use case to decide which approach to use.
 
